@@ -1,2 +1,2 @@
 # Restaurant-Ordering-System
-lab-ict
+LAB-ICT
